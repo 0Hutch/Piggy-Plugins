@@ -8,8 +8,6 @@ RuneLite Automation Plugins
 
 
 **Free Plugins**:
-- Piggy Guardians Of The Rift
-- Piggy Auto Tithe Farm
 - Piggy PVP Helper
 - Piggy Vardorvis Auto Prayer
 - Piggy Item Combiner
